@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Hotel Management System Assessment is a modern, responsive web application designed to streamline hotel operations. It provides an intuitive dashboard for managing bookings, rooms, guests, and other administrative tasks. This project was developed as part of an assessment for a front-end job interview.
+The Hotel Management System Assessment is a modern, responsive web application designed to streamline hotel operations. It provides an intuitive dashboard for managing bookings, rooms, guests, and other administrative tasks. This project was developed according to the requirements in the given assessment for the front-end job interview.
 
 ## Features
 
