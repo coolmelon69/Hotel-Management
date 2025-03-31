@@ -72,9 +72,7 @@ The Hotel Management System Assessment is a modern, responsive web application d
 
 1. Go to **Bookings** from the sidebar
 2. Filter by status (All, Confirmed, Pending, etc.)
-3. Click **New Booking** to add a new booking 
-4. View details by clicking **View Details**
-5. Use the dropdown for additional actions
+3. Use the dropdown for additional actions
 
 ### Coding Standards
 
