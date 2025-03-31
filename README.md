@@ -33,8 +33,8 @@ The Hotel Management System Assessment is a modern, responsive web application d
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/coolmelon69/hotel-management-system.git
-   cd hotel-management-system
+   git clone https://github.com/coolmelon69/hotel-management.git
+   cd hotel-management
    ```
 
 2. **Install Dependencies**
