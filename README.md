@@ -78,7 +78,7 @@ The Hotel Management System Assessment is a modern, responsive web application d
 
 ### Coding Standards
 
-- Use TypeScript
+- Used TypeScript
 - Write clear, descriptive comments
 - Ensure UI is responsive
 - Test across devices
@@ -92,10 +92,12 @@ The Hotel Management System Assessment is a modern, responsive web application d
 ```sh
 node -v  # Ensure Node.js 18.x or higher
 npm install
+npm install --legacy-peer-deps
 ```
 
 #### Login Issues
 **Solution**: For demo, any email/password works. 
+
 
 #### Dark Mode Doesn't Persist
 **Solution**: Ensure browser allows localStorage.
